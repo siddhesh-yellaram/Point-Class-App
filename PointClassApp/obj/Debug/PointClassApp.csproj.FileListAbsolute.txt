@@ -1,0 +1,7 @@
+D:\test\.NET\PointClassApp\bin\Debug\PointClassApp.exe.config
+D:\test\.NET\PointClassApp\bin\Debug\PointClassApp.exe
+D:\test\.NET\PointClassApp\bin\Debug\PointClassApp.pdb
+D:\test\.NET\PointClassApp\obj\Debug\PointClassApp.csproj.AssemblyReference.cache
+D:\test\.NET\PointClassApp\obj\Debug\PointClassApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\PointClassApp\obj\Debug\PointClassApp.exe
+D:\test\.NET\PointClassApp\obj\Debug\PointClassApp.pdb
